@@ -3,7 +3,7 @@ Network protocol dissector script that detects, decrypts and parses messages of 
 
 Invoke it like this: `wireshark -X lua_script:sality.lua traffic.pcap`.
 
-![Decoded Packet Content in Wireshark](https://github.com/tillmannw/sality-dissector/wireshark.png)
+![Decoded Packet Content in Wireshark](https://github.com/tillmannw/sality-dissector/blob/master/wireshark.png)
 
 Or use tshark for command line packet processing:
 
